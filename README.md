@@ -1,2 +1,2 @@
-# major_project
- sem 6 project
+# ABOUT ME
+ Hey!I am Taniya,Your coder friend.
